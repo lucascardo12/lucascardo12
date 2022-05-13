@@ -31,18 +31,6 @@ src="https://img.shields.io/github/followers/lucascardo12?logo=github&style=for-
 
 <p align="left"> <a href="https://discord.com/users/335935397580242955" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lucascardo12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lucas-cardoso-moreira-b451a018a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lucascardo12"><img src="https://github-readme-stats.vercel.app/api?username=lucascardo12&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucascardo12's GitHub stats" /></a>
-
-<a href="http://www.github.com/lucascardo12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascardo12&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/lucascardo12"><img src="https://activity-graph.herokuapp.com/graph?username=lucascardo12&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/lucascardo12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascardo12&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/lucascm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
