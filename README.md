@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas CM
 Flutter developer
 -----------------
 
-* 🌍  I'm based in Cuiaba
+* 🌍  I live in Cuiaba
 * 🖥️  See my portfolio at [https://play.google.com/store/apps/dev?id=6396825776112834154](http://play.google.com/store/apps/dev?id=63968257761128341547)
 * ✉️  You can contact me at [lucas.cardo123@hotmail.com](mailto:lucas.cardo123@hotmail.com)
 * 🧠  I'm learning Koltin and Spring Boot
